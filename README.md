@@ -1,3 +1,7 @@
+# HUGO-MINIMAL
+
+Forked from:
+
 # HUGO XMIN
 
 ## _Keep it simple, but not simpler_

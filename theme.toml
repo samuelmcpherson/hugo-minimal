@@ -1,12 +1,11 @@
-name = "XMin"
+name = "hugo-minimal"
 license = "MIT"
-licenselink = "https://github.com/yihui/hugo-xmin/blob/master/LICENSE.md"
-description = "eXtremely Minimal Hugo theme: about 150 lines of code in total, including HTML and CSS"
-homepage = "https://xmin.yihui.org"
-tags = ["minimal", "blog", "personal", "clean", "simple", "starter", "minimalist"]
-features = ["blog"]
+licenselink = "https://github.com/samuelmcpherson/hugo-minimal/blob/master/LICENSE.md"
+description = "Minimal Hugo theme to develop from. Forked from hugo-xmin by Yihui"
+homepage = "https://github.com/samuelmcpherson/hugo-minimal"
+tags = ["minimal", "clean", "simple", "starter", "minimalist"]
 min_version = "0.18"
 
 [author]
-  name = "Yihui Xie"
-  homepage = "https://yihui.org"
+  name = "Samuel McPherson-Gorham"
+  homepage = "https://samuelmcpherson.net"

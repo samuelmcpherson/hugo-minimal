@@ -19,18 +19,18 @@ menu:
     - name: About
       url: "about/"
       weight: 2
-    - name: Categories
-      url: "categories/"
+    - name: Annoucements
+      url: "announcements/"
       weight: 3
-    - name: Tags
-      url: "tags/"
+    - name: Events
+      url: "events/"
       weight: 4
-    - name: Subscribe
-      url: "index.xml"
+    - name: Join
+      url: "join/"
 
 params:
-  description: "A website built through Hugo and blogdown."
-  footer: "&copy; [Yihui Xie](https://yihui.org) 2017 -- {Year} | [Github](https://github.com/yihui) | [Twitter](https://twitter.com/xieyihui)"
+  description: "A website built through Hugo."
+  footer: "&copy; 2022 -- {Year} | [Github](https://github.com/samuelmcpherson/hugo-minimal)"
 
 markup:
   highlight:
