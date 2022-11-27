@@ -29,12 +29,5 @@ menu:
       url: "join/"
 
 params:
-  description: "A website built through Hugo."
-  footer: "&copy; 2022 -- {Year} | [Github](https://github.com/samuelmcpherson/hugo-minimal)"
-
-markup:
-  highlight:
-    codeFences: false
-  goldmark:
-    renderer:
-      unsafe: true
+  description: "Sample website for Hugo Minimal theme"
+  footer: "All logos and trademarks in this site are property of their respective owner. Anything else not covered by it's own copyright is &copy; 2022 -- {Year} https://github.com/samuelmcpherson/hugominimal -- [Github repo](https://github.com/samuelmcpherson/hugominimal) -- Contact the site [admin](mailto:admin@humlug.org)"
